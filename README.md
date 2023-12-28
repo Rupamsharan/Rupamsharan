@@ -1,13 +1,16 @@
 ### Hi there 👋
 # 👋 Hello, I'm Rupam Sharan!
 
-I'm a passionate Tester and Developer with over 3 years of experience in crafting seamless software experiences. My toolbox includes ETL Testing, Selenium, Cucumber, TestNG, and more.
+I'm a passionate Tester and Developer with over 3 years of experience in crafting seamless software experiences. My toolbox includes Selenium, Cucumber, TestNG, and more.
 
-## 🚀 Skills:
+## 🛠️ Tech Stack Magic:
 
 - **Languages:** Java, C++, PHP, JavaScript
-- **Tools:** Selenium IDE, SSIS, Postman, JMeter
-- **Environments:** Eclipse, NetBeans, MS Visual Studio, Android Studio
+- **Development Environments:** Eclipse, NetBeans, MS Visual Studio, Android Studio
+- **Testing Superpowers:** ETL Testing, Selenium, Cucumber, TestNG, JMeter
+- **Workflow Maestro:** JIRA for streamlined project management
+- **Web Wizardry:** HTML, CSS, and a flair for crafting seamless web experiences
+- **Database Dynamo:** MySQL
 
 ## 🌐 Web Dreams & Beyond:
 
