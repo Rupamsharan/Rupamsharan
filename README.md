@@ -7,7 +7,7 @@ I'm a passionate Tester and Developer with over 3 years of experience in craftin
 
 - **Languages:** Java, C++, PHP, JavaScript
 - **Development Environments:** Eclipse, NetBeans, MS Visual Studio, Android Studio
-- **Testing Superpowers:** Selenium, Cucumber, TestNG, JMeter
+- **Testing Superpowers:** Selenium, Cucumber, TestNG, JMeter, Postman
 - **Workflow Maestro:** JIRA for streamlined project management
 - **Web Wizardry:** HTML, CSS, and a flair for crafting seamless web experiences
 - **Database Dynamo:** MySQL
