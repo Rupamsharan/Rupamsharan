@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 👋 Hello, I'm Rupam Sharan!
 
-I'm a passionate Tester and Developer with over 3 years of experience in crafting seamless software experiences. My toolbox includes Selenium, Cucumber, TestNG, and more.
+I'm a passionate Tester and Developer with over 3 years of experience in crafting seamless software experiences. My toolbox includes Selenium, Postman, Cucumber, TestNG, and more.
 
 ## 🛠️ Tech Stack Magic:
 
